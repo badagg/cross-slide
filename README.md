@@ -7,7 +7,7 @@
 2. 优化过竖向滑动的列表（始终保持有限个数）
 
 ## 用法
-调用<CorssSlide />组件，传入对应config（如）：
+调用CorssSlide组件，传入对应config（如）：
 ```js
 [
   { name: 'tab1', selected: true, index: 0, list: [0,1,2,3,4,5,6,7,8,9] },
